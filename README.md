@@ -1,6 +1,6 @@
 <h1 align="center"> Conjunto de dados usado para análise </h1> 
 
-Estes dados foram coletados no contexto da indústria para serem utilizados em uma pesquisa acadêmico-científica sobre a influência da diversidade na produtividade de times que utilizam a metodologia ágil Scrum. A pesquisa foi realizada no âmbito de um trabalho de conclusão do curso de Ciência da Computação da Universidade Federal de Viçosa - campus Florestal.
+Dados usados nas pesquisas relacionadas ao TCC desenvolvido na Universidade Federal de Viçosa, campus Florestal. O trabalho intitulado "Diversidade e produtividade em times ágeis: percepções individuais versus dados" apresentou um estudo na indústria para avaliar a influência da diversidade em times ágeis sobre  índices de produtividade e qualidade dos times.
 
 <h3> ☕️ Extração e Tratamento dos Dados </h3> 
 
@@ -8,6 +8,6 @@ Para extrair os dados coletamos respostas das cinco equipes através de formulá
 [Perguntas formulários](https://docs.google.com/forms/d/e/1FAIpQLSfxpvu3vMZq5IH1HYFzZHAV7OL5YV4n4uDqxtGrKtmOR6SHeQ/viewform).
 
 
-Os dados coletados pelos times variam de acordo com o que cada um conseguiu disponibilizar. Nem todos os times forneceram todos os dados necessários, e isso dificultou a aplicação de todas as métricas para todos os times.
+Os dados coletados pelos times variam de acordo com o que cada um conseguiu disponibilizar. Nem todos os times forneceram todos os dados necessários, e isso dificultou a aplicação das métricas para todos os times.
 
 
